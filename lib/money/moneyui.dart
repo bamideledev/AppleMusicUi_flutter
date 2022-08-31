@@ -46,11 +46,11 @@ class _MoneyState extends State<Money> {
           child: Column(
             children: [
               Container(
-                height: 300,
+                height: 500,
                 child: PageView(
                   children: [
                     Cardie(
-                      name: 'ADEYANJU TAOFEEK. A',
+                      name: 'ADEYANJU TAOFEEK.A',
                       cardnumber: '5399-6737-1784-2567',
                       expiry: '0121',
                       color: Color.fromARGB(255, 54, 91, 179),
